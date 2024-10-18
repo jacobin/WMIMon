@@ -127,7 +127,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Properties\app.manifest" />
-    <None Include="WMIMon_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
